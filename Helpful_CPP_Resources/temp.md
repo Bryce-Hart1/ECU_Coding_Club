@@ -1,1 +1,0 @@
-put helpful student resources in this folder.
