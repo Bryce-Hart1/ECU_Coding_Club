@@ -12,7 +12,7 @@ Whether you are writing your first program or sharpening skills for interviews a
 
 ## Meeting solutions
 
-After each meeting, look for that week's problems and solutions in the [`meeting-solutions/`](meeting-solutions/) folder.
+After each meeting, look for that week's problems and solutions in the folder corresponding to the date.
 
 Each meeting folder can include:
 
